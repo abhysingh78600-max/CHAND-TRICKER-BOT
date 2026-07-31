@@ -1,8 +1,8 @@
 {
-  "BOTNAME": "bot",
+  "BOTNAME": "SURAJ INSIDE",
   "PREFIX": "/",
   "ADMINBOT": [
-    "https://www.facebook.com/profile.php?id=61585675055117"
+    "https://www.facebook.com/profile.php?id=61592402195917"
   ],
   "REACT_DELETE_EMOJI": "❤️",
   "PREFIX_ENABLED": true,
@@ -11,5 +11,5 @@
   "AUTO_ISLAMIC_POST": true,
   "AUTO_ALL_TAG": false,
   "ALL_TAG_INTERVAL": "1",
-  "TIMEZONE": "Asia/Karachi"
+  "TIMEZONE": "INDIA/DELHI"
 }
