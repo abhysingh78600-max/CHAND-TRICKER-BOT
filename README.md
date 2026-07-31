@@ -1,4 +1,4 @@
-# 🤖 CHAND TRICKER BOT
+# 🤖  SURAJ INSIDE 💠 
 
 > A powerful and feature-rich Facebook Messenger Bot with advanced automation capabilities
 
@@ -233,7 +233,7 @@ The bot handles:
 ## 📁 Project Structure
 
 ```
-CHAND-TRICKER-BOT/
+SURAJ INSIDE HERE 💠👿/
 │
 ├── 📄 index.js                          # Main entry point
 ├── 📄 CHAND.js                          # Core bot logic
